@@ -1,7 +1,7 @@
 # QQ群聊规定
 # QQ Group Rules
 
-欢迎来到阎罗殿驻阳间办事处官方交流群！
+欢迎来到QQ交流群！
 
 提问前，请先阅读[Stop Ask Questions The Stupid Ways](https://github.com/dogfight360/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)与[How To Ask Questions The Smart Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 ## 全局
@@ -30,6 +30,6 @@
   
   ### 本群规最终解释权由阎罗殿驻阳间办事处管理组所有
   
-   阎罗殿驻阳间办事处管理组组
+   QQ群组管理组
   
    2020年1月15日
